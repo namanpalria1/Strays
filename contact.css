@@ -1,0 +1,47 @@
+/* Resetting default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #001524;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+header {
+    background-color: #07253a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+
+
+}
+
+nav {
+    padding: 10px;
+    text-align: right;
+
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+
+
+}
+
+nav a:hover {
+    color: #ff0000;
+}
